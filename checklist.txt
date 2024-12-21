@@ -1,0 +1,8 @@
+1. clone repo
+2. collect images-code
+3. setup lablling
+4. label images
+5. update labelmap
+6. train
+7. update checkpoint
+8. detect
