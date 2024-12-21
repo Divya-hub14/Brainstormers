@@ -1,4 +1,4 @@
-1. clone repo
+1. clone repo - DONE!!
 2. collect images-code
 3. setup lablling
 4. label images
